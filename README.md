@@ -3,7 +3,8 @@
     - and just graduated from MIT (June '23) with a Bachelor's in Bioengineering, minors in Computer Science and Neuroscience
 - 👀 I’m interested in the start-up biotech space, particularly working with bioinformatics and computational biology to target diseases of aging and the brain.
     - I have 3 years of experience developing CAR-T cell cancer therapy (both academic research and biotech internships).
-- 💞️ I’m looking to collaborate on start-up project ideas in the neuroengineering/neurotech space.
+    - I also have extensive programming experience, primarily in the python, java, MATLAB, and R programming languages.
+- 💞️ I’m looking to collaborate on start-up project ideas in the neuroengineering/neurotech space and pursue computational roles in bioinformatics.
 - 📫 You can reach me via email at (work) llima23@stanford.edu or (personal) ise23sfd@gmail.com
 
 <!---
